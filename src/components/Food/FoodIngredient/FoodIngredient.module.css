@@ -1,0 +1,22 @@
+.pane {
+    color: #000;
+    background: burlywood;
+    margin: 15px 120px !important;
+}
+.hotDog{
+    color: #fff;
+    background: orangered;
+    margin: 5px 80px !important;
+
+}
+.formaggio{
+    color: #000;
+    background: yellow;
+    margin: 5px 80px !important;
+
+}
+.insalata {
+    color: #fff;
+    background: green;
+    margin: 5px 80px !important;
+}
